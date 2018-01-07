@@ -23,58 +23,18 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Öncelikle bizim takım olarak seçtiğimiz proje 2012 yılına ait olan 'ROCKING BOTTLE' sorusudur. Bir miktar sıvı ile doldurulan şişeyi yatay bir yüzeye koyduktan sonra ittirdiğimiz zamanki ve durduktan sonraki hareketlerinin hangi durumlarda nasıl değiştiğini araştırdık. Bu durum çeşitli parametrelere göre değişim göstermektedir: Bu parametrelerden ilki şişedeki sıvının yoğunluğu/ağırlığıdır. Örneğin ilk şişeye bir miktar su diğer şişeye ise bir miktar fazla katı olmayan yoğurt doldurulduğu zaman iki şişenin hareketi birbirlerinden farklı olur. İkinci parametre ise şişedeki sıvının miktarıdır. Cinsleri aynı olmak üzere şişelere doldurulan çeşitli miktardaki sıvıların aynı kuvvvetle ittirildikleri zamanki hareketleri birbirlerinden farklı olur. Son parametremiz ise şişenin yuvarlandığı yüzeyin kayganlık durumudur. Örnek vermek gerekirse halı gibi cismin fazla sürtünmeye uğradığı bir yüzeyde ittirilen şişenin hareketi ile yağlı ve kaygan bir yüzeyde ittirilen şişenin yuvarlanma mesafesi ve durduktan sonraki hareketleri aynı olmayabilir.
+
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+ Bazen şişemiz yere düştüğünde yuvarlanır, yuvarlanır ve bir süre sonra durduğu yerde sallanır en sonunda ise hareketsizleşir. Bu olay hepimizin başına gelmiştir ve olaylar zinciri bu şekilde gerçekleşir. Seçeceğimiz soruyu araştırırken 2012 yılından bu projeyle karşılaştık ve ilgimizi çekti. 2012 yılından olduğu için kaynak bulmak kolay olur diye düşündük fakat hiç de öyle olmadı. Biz de kaynak olmadan da yapabileceğimizi düşündük. ÖDEV-1'de bahsettiğimiz gibi bu olayı çeşitli parametreleri değiştirip kontrollü deney yaparak tekrarlayacağız. Ve deney aşamasına geçtik.
+ 
 # Materyal ve Yöntem (Experimental Setup)
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+Projemizin sonraki aşaması deney aşamasıdır. Bu bölümde deney yapmak için izlediğimiz yol ve yöntemi ve materyal hazırlama aşamalarnı anlatacağız.
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+1. Deneye Başlamadan Önce Veri Toplama
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
+Bu kısımda ÖDEV-1'de yazdığımız özetmizden yararlandık. Deneyi nerede yapacağımızı, deney yaparken kullanacağımız malzemeleri düşündük ve not ettik. Bunları düşünürken arkadaşlarımızın fikirlerine de yer verdik. 
 
 # Bulgular (Results)
 Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
